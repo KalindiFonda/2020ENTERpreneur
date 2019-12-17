@@ -3,7 +3,8 @@
 	margin: 0 auto;
 }
 
-h2 {
+h2,
+.ideas {
 	text-align: center;
 }
 
@@ -15,6 +16,11 @@ h2 {
 .year {
 	margin-left: 75px;
 	font-weight: 900;
+}
+
+.ideas {
+	font-weight: 600;
+	font-size: 12px;
 }
 
 footer {
