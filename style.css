@@ -1,9 +1,25 @@
-footer {
-	display: flex;
-	justify-content: space-around;
+.content {
+	width: 600px;
+	margin: 0 auto;
+}
+
+h2 {
+	text-align: center;
+}
+
+.resolutions {
+	width: 200px;
+	margin: 0 auto;
+}
+
+.year {
+	margin-left: 75px;
+	font-weight: 900;
 }
 
 footer {
+	display: flex;
+	justify-content: space-around;
 	position: fixed;
 	bottom: 0;
 	left: 0;
@@ -15,14 +31,8 @@ footer {
 }
 
 footer a {
-
+	text-decoration: none;
 }
-
-/*
-.author {
-	padding-left: 1em;
-}
-*/
 
 /* Mailchimp email collection box */
 #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
