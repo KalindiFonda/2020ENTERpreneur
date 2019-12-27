@@ -4,7 +4,8 @@
 }
 
 h2,
-.ideas {
+.ideas,
+.centre {
 	text-align: center;
 }
 
@@ -15,6 +16,10 @@ h2,
 
 .year {
 	margin-left: 75px;
+	font-weight: 900;
+}
+
+.bold {
 	font-weight: 900;
 }
 
