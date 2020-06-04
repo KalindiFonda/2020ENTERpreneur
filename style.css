@@ -1,3 +1,13 @@
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  width: 100%;
+}
+
+
+
+
+
 .content {
 	width: 600px;
 	margin: 0 auto;
